@@ -59,24 +59,22 @@ Currently deep in the **TypeScript + React** ecosystem. I believe great UI engin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/FeriKO-tech/riftborn-chronicles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=riftborn-chronicles&theme=tokyonight&hide_border=true" width="100%" />
-      </a>
-      <br/><br/>
-      <img src="https://progress-bar.dev/90/?title=TypeScript&width=280&color=3178c6" />
-      <br/>
-      <img src="https://progress-bar.dev/10/?title=HTML%20%20%20%20%20%20&width=280&color=e34c26" />
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=SAO-WEB-GAME&theme=tokyonight&hide_border=true" width="100%" />
       </a>
       <br/><br/>
-      <img src="https://progress-bar.dev/75/?title=TypeScript&width=280&color=3178c6" />
-      <br/>
-      <img src="https://progress-bar.dev/20/?title=HTML%20%20%20%20%20%20&width=280&color=e34c26" />
-      <br/>
-      <img src="https://progress-bar.dev/5/?title=CSS%20%20%20%20%20%20%20&width=280&color=264de4" />
+      <img src="https://img.shields.io/badge/TypeScript-69.4%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-17.3%25-264de4?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-12.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/FeriKO-tech/riftborn-chronicles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=riftborn-chronicles&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-99.8%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Other-0.2%25-555555?style=flat-square" />
     </td>
   </tr>
 </table>
