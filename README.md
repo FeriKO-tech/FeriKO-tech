@@ -56,16 +56,30 @@ Currently deep in the **TypeScript + React** ecosystem. I believe great UI engin
 
 ## 📌 Projects
 
-<div align="center">
-
-<a href="https://github.com/FeriKO-tech/riftborn-chronicles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=riftborn-chronicles&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=SAO-WEB-GAME&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/FeriKO-tech/riftborn-chronicles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=riftborn-chronicles&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://progress-bar.dev/90/?title=TypeScript&width=280&color=3178c6" />
+      <br/>
+      <img src="https://progress-bar.dev/10/?title=HTML%20%20%20%20%20%20&width=280&color=e34c26" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=SAO-WEB-GAME&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://progress-bar.dev/75/?title=TypeScript&width=280&color=3178c6" />
+      <br/>
+      <img src="https://progress-bar.dev/20/?title=HTML%20%20%20%20%20%20&width=280&color=e34c26" />
+      <br/>
+      <img src="https://progress-bar.dev/5/?title=CSS%20%20%20%20%20%20%20&width=280&color=264de4" />
+    </td>
+  </tr>
+</table>
 
 ---
 
