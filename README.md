@@ -69,12 +69,14 @@ Currently deep in the **TypeScript + React** ecosystem. I believe great UI engin
       <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/FeriKO-tech/riftborn-chronicles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=riftborn-chronicles&theme=tokyonight&hide_border=true" width="100%" />
+      <a href="https://github.com/FeriKO-tech/ashen-throne">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=ashen-throne&theme=tokyonight&hide_border=true" width="100%" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-99.8%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Other-0.2%25-555555?style=flat-square" />
+      <img src="https://img.shields.io/badge/HTML-45.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-23.4%25-264de4?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nunjucks-20.9%25-1C4913?style=flat-square&logo=nunjucks&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-10.5%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
