@@ -15,7 +15,7 @@
 ## 👤 About Me
 
 I'm a **Frontend Developer** focused on building fast, accessible, and maintainable user interfaces.
-I care about the details that make the difference — smooth interactions, clean code, and experiences that *just work*.
+I care about the details that make the difference - smooth interactions, clean code, and experiences that *just work*.
 
 Currently deep in the **TypeScript + React** ecosystem. I believe great UI engineering is invisible to the user and indispensable to the product.
 
