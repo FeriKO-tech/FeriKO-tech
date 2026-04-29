@@ -59,16 +59,6 @@ Currently deep in the **TypeScript + React** ecosystem. I believe great UI engin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=SAO-WEB-GAME&theme=tokyonight&hide_border=true" width="100%" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-69.4%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-17.3%25-264de4?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML-12.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/ashen-throne">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=ashen-throne&theme=tokyonight&hide_border=true" width="100%" />
       </a>
