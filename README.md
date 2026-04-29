@@ -1,19 +1,17 @@
 <div align="center">
 
-<h1>FeriKO</h1>
-<p><strong>Frontend Developer · TypeScript & React</strong></p>
-<p>
-  Building fast, polished interfaces with a focus on performance, responsive UX,
-  and maintainable frontend architecture.
-</p>
-<p>Open to new opportunities and ambitious products.</p>
-<p>
-  <a href="https://feriko-frontend.firebaseapp.com/">Portfolio</a> •
-  <a href="https://github.com/FeriKO-tech">GitHub</a> •
-  <a href="https://sao-web-76b55.web.app/">SAO Live</a> •
-  <a href="https://ashen-throne.web.app/">Ashen Throne</a> •
-  <a href="https://t.me/Skkdsaq">Telegram</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=FeriKO&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=56&descSize=22&animation=fadeIn" width="100%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Crafting+fast%2C+polished+interfaces+with+TypeScript+%26+React.;Frontend+architecture%2C+performance%2C+and+UX+details+matter.;From+clean+product+UIs+to+immersive+interactive+web+experiences.;Open+to+new+opportunities+and+ambitious+products.)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://feriko-frontend.firebaseapp.com/)
+[![SAO Live](https://img.shields.io/badge/SAO%20Live-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sao-web-76b55.web.app/)
+[![Ashen Throne](https://img.shields.io/badge/Ashen%20Throne-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashen-throne.web.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Skkdsaq)
 
 </div>
 
