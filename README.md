@@ -102,10 +102,10 @@ Here are a few projects that best represent my approach to frontend development:
         <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Game%20UI-7C3AED?style=flat-square" />
-      <img src="https://img.shields.io/badge/Responsive%20UX-0EA5E9?style=flat-square" />
-      <img src="https://img.shields.io/badge/Interactive%20Web-111827?style=flat-square" />
+      <img src="https://img.shields.io/badge/TypeScript-69.4%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-17.3%25-264de4?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-12.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/ashen-throne">
@@ -122,10 +122,10 @@ Here are a few projects that best represent my approach to frontend development:
         <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Immersive%20UX-111827?style=flat-square" />
+      <img src="https://img.shields.io/badge/HTML-45.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-23.4%25-264de4?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nunjucks-20.9%25-1C4913?style=flat-square&logo=nunjucks&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-10.5%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
