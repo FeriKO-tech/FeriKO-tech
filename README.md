@@ -83,7 +83,15 @@ Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a st
 
 <br/><br/>
 
+<img src="https://ghchart.rshah.org/6366f1/FeriKO-tech" width="100%" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriKO-tech&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/output/snake.svg" width="100%" />
 
 </div>
 
