@@ -66,10 +66,6 @@ Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a st
 
 ## 📊 GitHub Activity
 
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
 <a href="https://github.com/FeriKO-tech">
