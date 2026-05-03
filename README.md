@@ -78,7 +78,8 @@ Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a st
 <img src="https://streak-stats.demolab.com?user=FeriKO-tech&theme=tokyonight&hide_border=true" height="150" />
 
 </div>
-
+---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FeriKO-tech&theme=tokyo-night&hide_border=true&area=true)
 ---
 
 ## 📌 Featured Work
