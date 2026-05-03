@@ -79,6 +79,10 @@ Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a st
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=FeriKO-tech&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriKO-tech&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
