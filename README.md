@@ -68,10 +68,9 @@ Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a st
 
 <div align="center">
 
-<a href="https://github.com/FeriKO-tech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
