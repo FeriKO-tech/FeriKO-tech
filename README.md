@@ -89,6 +89,10 @@ Status     Open to new opportunities
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriKO-tech&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=6366f1&amp;line=a78bfa&amp;point=ffffff" width="100%" alt="GitHub Activity Graph" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
+
 </div>
 
 ---
