@@ -13,6 +13,16 @@
 [![Ashen Throne](https://img.shields.io/badge/Ashen%20Throne-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashen-throne.web.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Skkdsaq)
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=FeriKO-tech&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/FeriKO-tech?style=for-the-badge&color=2563EB&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/FeriKO-tech?style=for-the-badge&color=A78BFA&logo=github&logoColor=white&label=STARS" alt="GitHub Stars" />
+
+<br/><br/>
+
+<em>Building interfaces that feel obvious, look polished, and stay fast.</em>
+
 </div>
 
 <br/>
@@ -25,12 +35,13 @@ I'm a **Frontend Developer from Ukraine** focused on building fast, polished, an
 
 I care about the details users notice immediately: smooth interactions, responsive layouts, clear visual hierarchy, and experiences that feel intuitive from the first click.
 
-Currently, I work mostly with the **TypeScript + React** ecosystem and enjoy building both clean product UIs and immersive interactive web experiences.
+I enjoy building both clean product UIs and immersive interactive web experiences.
 
 ```txt
 Location   Ukraine
 Main stack TypeScript / React / Next.js / Tailwind CSS
 Focus      UI engineering / Performance / Responsive UX
+Languages  Ukrainian (native) / English (professional) / Russian (fluent)
 Status     Open to new opportunities
 ```
 
@@ -57,6 +68,15 @@ Status     Open to new opportunities
     </td>
   </tr>
 </table>
+
+---
+
+## &#128640; Currently Building
+
+- Polishing **SAO Web Game** with refined UI animations and combat UX.
+- Experimenting with **Three.js** scenes for richer interactive web experiences.
+- Refining the personal portfolio with smoother transitions and cleaner architecture.
+- Exploring open-source contributions in the **React / TypeScript** ecosystem.
 
 ---
 
@@ -93,6 +113,11 @@ Status     Open to new opportunities
 
 <img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeriKO-tech&amp;theme=tokyonight" height="170" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeriKO-tech&amp;theme=tokyonight" height="170" alt="Most Committed Languages" />
+
 </div>
 
 ---
@@ -119,10 +144,10 @@ Here are a few projects that best represent my approach to frontend development:
         <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="SAO Web Game Repository" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-69.4%25-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/CSS-17.3%25-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/HTML-12.2%25-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/ashen-throne">
@@ -140,10 +165,10 @@ Here are a few projects that best represent my approach to frontend development:
         <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ashen Throne Repository" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML-45.2%25-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-23.4%25-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/Nunjucks-20.9%25-1C4913?style=flat-square&amp;logo=nunjucks&amp;logoColor=white" alt="Nunjucks" />
-      <img src="https://img.shields.io/badge/JavaScript-10.5%25-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/Nunjucks-1C4913?style=flat-square&amp;logo=nunjucks&amp;logoColor=white" alt="Nunjucks" />
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
     </td>
   </tr>
 </table>
@@ -151,8 +176,19 @@ Here are a few projects that best represent my approach to frontend development:
 <div align="center">
 
 [![View More Work](https://img.shields.io/badge/View%20More%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://feriko-frontend.firebaseapp.com/)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeriKO-tech?tab=repositories)
 
 </div>
+
+---
+
+## &#127757; Open Source
+
+I'm exploring open-source contributions in the **React / TypeScript** ecosystem and value clean documentation, accessible APIs, and good DX.
+
+- Submitted a documentation example PR to **oddysee-hls-audio-player** ([PR #45](https://github.com/itskarelleh/oddysee-hls-audio-player/pull/45)).
+
+Open to contributing to frontend tooling, design systems, and developer experience projects.
 
 ---
 
