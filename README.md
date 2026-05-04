@@ -100,7 +100,7 @@ Status     Open to new opportunities
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,threejs,redux,vite,webpack,jest,nodejs,firebase,figma,git,github,vscode,vercel,netlify,docker,linux,postman&perline=12&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,threejs,vite,firebase,figma,git,github,vscode,vercel&perline=8&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -123,57 +123,21 @@ Status     Open to new opportunities
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
     </td>
     <td valign="top" width="25%" align="center">
-      <strong>Styling &amp; Animation</strong>
+      <strong>Styling &amp; UI</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&amp;logo=framer&amp;logoColor=white" alt="Framer Motion" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&amp;logo=greensock&amp;logoColor=white" alt="GSAP" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
     </td>
     <td valign="top" width="25%" align="center">
-      <strong>State &amp; Data</strong>
+      <strong>Tools &amp; Hosting</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&amp;logo=react&amp;logoColor=white" alt="Zustand" />
-      <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&amp;logo=reactquery&amp;logoColor=white" alt="React Query" />
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&amp;logo=axios&amp;logoColor=white" alt="Axios" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="25%" align="center">
-      <strong>Build &amp; Bundlers</strong>
-      <br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&amp;logo=webpack&amp;logoColor=black" alt="Webpack" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm" />
-      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&amp;logo=eslint&amp;logoColor=white" alt="ESLint" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <strong>Hosting &amp; Backend</strong>
-      <br/><br/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&amp;logo=netlify&amp;logoColor=white" alt="Netlify" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <strong>DevOps &amp; OS</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <strong>Tools &amp; IDE</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome DevTools" />
     </td>
   </tr>
 </table>
