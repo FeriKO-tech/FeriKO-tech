@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=FeriKO-tech&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/FeriKO-tech?style=for-the-badge&color=2563EB&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/stars/FeriKO-tech?style=for-the-badge&color=A78BFA&logo=github&logoColor=white&label=STARS" alt="GitHub Stars" />
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire-22C55E?style=for-the-badge" alt="Available for Hire" />
+<a href="https://t.me/Skkdsaq"><img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire-22C55E?style=for-the-badge" alt="Available for Hire" /></a>
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## &#128100; About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="About Me" />
 
 I'm a **Frontend Developer from Ukraine** focused on building fast, polished, and reliable web interfaces.
 
@@ -48,21 +48,27 @@ Status     Open to new opportunities
 
 ---
 
-## &#9889; What I Focus On
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=What%20I%20Focus%20On&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="What I Focus On" />
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
+      &#129513;
+      <br/>
       <strong>UI Engineering</strong>
       <br/><br/>
       Reusable components, responsive layouts, clean visual systems, and interfaces that stay consistent across devices.
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
+      &#9889;
+      <br/>
       <strong>Performance</strong>
       <br/><br/>
       Fast loading, smooth rendering, optimized assets, and frontend decisions that improve real user experience.
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
+      &#127959;
+      <br/>
       <strong>Clean Architecture</strong>
       <br/><br/>
       Maintainable codebases, predictable structure, scalable frontend organization, and clear separation of concerns.
@@ -72,7 +78,7 @@ Status     Open to new opportunities
 
 ---
 
-## &#128640; Currently Building
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=Currently%20Building&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="Currently Building" />
 
 - Polishing **SAO Web Game** with refined UI animations and combat UX.
 - Experimenting with **Three.js** scenes for richer interactive web experiences.
@@ -81,7 +87,7 @@ Status     Open to new opportunities
 
 ---
 
-## &#128218; Currently Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=Currently%20Learning&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="Currently Learning" />
 
 - Advanced **Three.js** patterns and shader programming for richer interactive scenes.
 - Deeper **performance profiling** and Core Web Vitals optimization.
@@ -90,7 +96,7 @@ Status     Open to new opportunities
 
 ---
 
-## &#128736; Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
@@ -136,7 +142,7 @@ Status     Open to new opportunities
 
 ---
 
-## &#128202; GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=GitHub%20Activity&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="GitHub Activity" />
 
 <div align="center">
 
@@ -159,16 +165,11 @@ Status     Open to new opportunities
 
 <img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeriKO-tech&amp;theme=tokyonight" height="170" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeriKO-tech&amp;theme=tokyonight" height="170" alt="Most Committed Languages" />
-
 </div>
 
 ---
 
-## &#128204; Featured Work
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=Featured%20Work&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="Featured Work" />
 
 Here are a few projects that best represent my approach to frontend development: polished interfaces, strong visual presentation, responsive UX, and attention to product details.
 
@@ -185,9 +186,6 @@ Here are a few projects that best represent my approach to frontend development:
       <br/><br/>
       <a href="https://sao-web-76b55.web.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="SAO Web Game Live Demo" />
-      </a>
-      <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
-        <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="SAO Web Game Repository" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
@@ -207,9 +205,6 @@ Here are a few projects that best represent my approach to frontend development:
       <a href="https://ashen-throne.web.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Ashen Throne Live Demo" />
       </a>
-      <a href="https://github.com/FeriKO-tech/ashen-throne">
-        <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ashen Throne Repository" />
-      </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
@@ -222,13 +217,12 @@ Here are a few projects that best represent my approach to frontend development:
 <div align="center">
 
 [![View More Work](https://img.shields.io/badge/View%20More%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://feriko-frontend.firebaseapp.com/)
-[![All Repositories](https://img.shields.io/badge/All%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeriKO-tech?tab=repositories)
 
 </div>
 
 ---
 
-## &#127757; Open Source
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=Open%20Source&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="Open Source" />
 
 I'm exploring open-source contributions in the **React / TypeScript** ecosystem and value clean documentation, accessible APIs, and good DX.
 
@@ -238,7 +232,7 @@ Open to contributing to frontend tooling, design systems, and developer experien
 
 ---
 
-## &#129309; Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=70&amp;section=header&amp;text=Let%27s%20Connect&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="Let's Connect" />
 
 If you're looking for someone who cares about product quality, frontend performance, clean UI architecture, and polished UX, feel free to reach out.
 
@@ -247,11 +241,18 @@ If you're looking for someone who cares about product quality, frontend performa
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://feriko-frontend.firebaseapp.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Skkdsaq)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikseh2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeriKO-tech)
 
 <br/><br/>
 
 <em>Thanks for visiting. If this profile resonates with you, feel free to drop a star or reach out.</em>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
