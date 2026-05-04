@@ -18,6 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=FeriKO-tech&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/FeriKO-tech?style=for-the-badge&color=2563EB&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/stars/FeriKO-tech?style=for-the-badge&color=A78BFA&logo=github&logoColor=white&label=STARS" alt="GitHub Stars" />
+<img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire-22C55E?style=for-the-badge" alt="Available for Hire" />
 
 <br/><br/>
 
@@ -80,6 +81,15 @@ Status     Open to new opportunities
 
 ---
 
+## &#128218; Currently Learning
+
+- Advanced **Three.js** patterns and shader programming for richer interactive scenes.
+- Deeper **performance profiling** and Core Web Vitals optimization.
+- Modern **Next.js** patterns including Server Components and streaming.
+- **Accessibility-first** UI design and WCAG-compliant interactions.
+
+---
+
 ## &#128736; Tech Stack
 
 <div align="center">
@@ -87,6 +97,42 @@ Status     Open to new opportunities
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,firebase,figma,git,vscode&perline=6&theme=dark)](https://skillicons.dev)
 
 </div>
+
+<br/>
+
+<table>
+  <tr>
+    <td valign="top" width="25%" align="center">
+      <strong>Languages</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+    </td>
+    <td valign="top" width="25%" align="center">
+      <strong>Frameworks</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
+    </td>
+    <td valign="top" width="25%" align="center">
+      <strong>Styling &amp; UI</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+    </td>
+    <td valign="top" width="25%" align="center">
+      <strong>Tools &amp; Platforms</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -201,6 +247,11 @@ If you're looking for someone who cares about product quality, frontend performa
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://feriko-frontend.firebaseapp.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Skkdsaq)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikseh2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeriKO-tech)
+
+<br/><br/>
+
+<em>Thanks for visiting. If this profile resonates with you, feel free to drop a star or reach out.</em>
 
 </div>
 
