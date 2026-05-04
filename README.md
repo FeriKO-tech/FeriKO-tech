@@ -100,7 +100,7 @@ Status     Open to new opportunities
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,threejs,framer,redux,vite,webpack,nodejs,firebase,figma,git,github,vscode,vercel,netlify,docker,linux,postman&perline=12&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,threejs,redux,vite,webpack,jest,nodejs,firebase,figma,git,github,vscode,vercel,netlify,docker,linux,postman&perline=12&theme=dark)](https://skillicons.dev)
 
 </div>
 
