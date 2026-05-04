@@ -100,7 +100,7 @@ Status     Open to new opportunities
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,threejs,vite,firebase,figma,git,github,vscode,vercel&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,threejs,nodejs,vite,firebase,vercel,docker,bash,maven,gradle,githubactions,git,github,idea,vscode,figma,postman&perline=12&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -123,6 +123,7 @@ Status     Open to new opportunities
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
     </td>
     <td valign="top" width="25%" align="center">
       <strong>Styling &amp; UI</strong>
@@ -131,13 +132,41 @@ Status     Open to new opportunities
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
     </td>
     <td valign="top" width="25%" align="center">
-      <strong>Tools &amp; Hosting</strong>
+      <strong>Hosting &amp; Build</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="25%" align="center">
+      <strong>DevOps &amp; Shell</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+    </td>
+    <td valign="top" width="25%" align="center">
+      <strong>Build &amp; CI</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=white" alt="Maven" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&amp;logo=gradle&amp;logoColor=white" alt="Gradle" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+    </td>
+    <td valign="top" width="25%" align="center">
+      <strong>Testing</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&amp;logo=junit5&amp;logoColor=white" alt="JUnit" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest" />
+    </td>
+    <td valign="top" width="25%" align="center">
+      <strong>Tools &amp; IDE</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" />
     </td>
   </tr>
 </table>
