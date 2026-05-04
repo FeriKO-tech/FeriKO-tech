@@ -78,8 +78,8 @@ Status     Open to new opportunities
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=FeriKO%27s%20GitHub%20Stats" height="180" alt="FeriKO GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;custom_title=Top%20Languages" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=FeriKO%27s%20GitHub%20Stats" height="180" alt="FeriKO GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;custom_title=Top%20Languages" height="180" alt="Top Languages" />
 
 <br/><br/>
 
@@ -101,7 +101,7 @@ Here are a few projects that best represent my approach to frontend development:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&amp;repo=SAO-WEB-GAME&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="SAO Web Game Repository Card" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FeriKO-tech&amp;repo=SAO-WEB-GAME&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="SAO Web Game Repository Card" />
       </a>
       <br/><br/>
       <strong>SAO Web Game</strong>
@@ -122,7 +122,7 @@ Here are a few projects that best represent my approach to frontend development:
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/ashen-throne">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&amp;repo=ashen-throne&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Ashen Throne Repository Card" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FeriKO-tech&amp;repo=ashen-throne&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Ashen Throne Repository Card" />
       </a>
       <br/><br/>
       <strong>Ashen Throne</strong>
