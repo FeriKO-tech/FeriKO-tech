@@ -202,7 +202,7 @@ Status     Open to new opportunities
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/main/github-metrics.svg" width="500" alt="GitHub Metrics" />
 
 </div>
 
