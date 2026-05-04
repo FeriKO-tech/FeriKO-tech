@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=FeriKO&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=56&descSize=22&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=FeriKO&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Frontend%20Developer&amp;descAlignY=56&amp;descSize=22&amp;animation=fadeIn" width="100%" alt="FeriKO - Frontend Developer" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Crafting+fast%2C+polished+interfaces+with+TypeScript+%26+React.;Frontend+architecture%2C+performance%2C+and+UX+details+matter.;From+clean+product+UIs+to+immersive+interactive+web+experiences.;Open+to+new+opportunities+and+ambitious+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Frontend+Developer+building+fast%2C+polished+web+interfaces.;TypeScript%2C+React%2C+Next.js%2C+Tailwind+CSS.;Performance%2C+clean+architecture%2C+and+responsive+UX.;Open+to+new+opportunities+and+ambitious+products.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,42 +19,48 @@
 
 ---
 
-## 👤 About Me
+## &#128100; About Me
 
-I'm a **Frontend Developer from Ukraine** focused on building interfaces that feel fast, polished, and reliable.
-I care about the details users notice instantly - smooth interactions, clean structure, and experiences that *just work*.
+I'm a **Frontend Developer from Ukraine** focused on building fast, polished, and reliable web interfaces.
 
-Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a strong interest in **performance, UI architecture, responsive design, and immersive web experiences**.
+I care about the details users notice immediately: smooth interactions, responsive layouts, clear visual hierarchy, and experiences that feel intuitive from the first click.
 
+Currently, I work mostly with the **TypeScript + React** ecosystem and enjoy building both clean product UIs and immersive interactive web experiences.
+
+```txt
+Location   Ukraine
+Main stack TypeScript / React / Next.js / Tailwind CSS
+Focus      UI engineering / Performance / Responsive UX
+Status     Open to new opportunities
 ```
-📍 Based in Ukraine
-🧠 Main stack → TypeScript · React · Next.js · Tailwind CSS
-⚡ Focus → UI engineering · Performance · Responsive UX
-🚀 Status → Open to new opportunities
-```
 
-## ⚡ What I Focus On
+---
+
+## &#9889; What I Focus On
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>UI Engineering</strong><br/>
-      Reusable components, responsive layouts, and interfaces that stay consistent across devices.
+      <strong>UI Engineering</strong>
+      <br/><br/>
+      Reusable components, responsive layouts, clean visual systems, and interfaces that stay consistent across devices.
     </td>
     <td width="33%" valign="top">
-      <strong>Performance</strong><br/>
-      Fast loading, smooth rendering, and frontend decisions that improve the real user experience.
+      <strong>Performance</strong>
+      <br/><br/>
+      Fast loading, smooth rendering, optimized assets, and frontend decisions that improve real user experience.
     </td>
     <td width="33%" valign="top">
-      <strong>Clean Architecture</strong><br/>
-      Maintainable codebases, predictable structure, and scalable frontend organization.
+      <strong>Clean Architecture</strong>
+      <br/><br/>
+      Maintainable codebases, predictable structure, scalable frontend organization, and clear separation of concerns.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## &#128736; Tech Stack
 
 <div align="center">
 
@@ -64,74 +70,76 @@ Currently, I'm working mostly in the **TypeScript + React** ecosystem, with a st
 
 ---
 
-## 📊 GitHub Activity
+## &#128202; GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FeriKO-tech&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=FeriKO-tech&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=8" width="100%" alt="GitHub Profile Trophy" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats" height="180" alt="FeriKO GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;custom_title=Most%20Used%20Languages" height="180" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriKO-tech&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1" width="100%" />
+<img src="https://streak-stats.demolab.com?user=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/output/snake.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FeriKO-tech&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=6366f1&amp;line=a78bfa&amp;point=ffffff" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 📌 Featured Work
+## &#128204; Featured Work
 
-Here are a few projects that best represent my approach to frontend development: polished interfaces, strong visual presentation, and real attention to user experience.
+Here are a few projects that best represent my approach to frontend development: polished interfaces, strong visual presentation, responsive UX, and attention to product details.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=SAO-WEB-GAME&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&amp;repo=SAO-WEB-GAME&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="SAO Web Game Repository Card" />
       </a>
       <br/><br/>
-      <strong>SAO Web Game</strong><br/>
-      A browser-based RPG inspired by Sword Art Online, built around interactive game UI, responsive layouts, and immersive presentation.
+      <strong>SAO Web Game</strong>
+      <br/><br/>
+      A browser-based RPG inspired by Sword Art Online, focused on interactive game UI, responsive layouts, and immersive presentation.
       <br/><br/>
       <a href="https://sao-web-76b55.web.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="SAO Web Game Live Demo" />
       </a>
       <a href="https://github.com/FeriKO-tech/SAO-WEB-GAME">
-        <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="SAO Web Game Repository" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-69.4%25-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-17.3%25-264de4?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML-12.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-69.4%25-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/CSS-17.3%25-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/HTML-12.2%25-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/JavaScript-1.1%25-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/FeriKO-tech/ashen-throne">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&repo=ashen-throne&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeriKO-tech&amp;repo=ashen-throne&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Ashen Throne Repository Card" />
       </a>
       <br/><br/>
-      <strong>Ashen Throne</strong><br/>
+      <strong>Ashen Throne</strong>
+      <br/><br/>
       A dark fantasy web experience focused on atmosphere, visual storytelling, and handcrafted presentation with HTML, CSS, and JavaScript.
       <br/><br/>
       <a href="https://ashen-throne.web.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Ashen Throne Live Demo" />
       </a>
       <a href="https://github.com/FeriKO-tech/ashen-throne">
-        <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ashen Throne Repository" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML-45.2%25-e34c26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-23.4%25-264de4?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nunjucks-20.9%25-1C4913?style=flat-square&logo=nunjucks&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-10.5%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML-45.2%25-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-23.4%25-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/Nunjucks-20.9%25-1C4913?style=flat-square&amp;logo=nunjucks&amp;logoColor=white" alt="Nunjucks" />
+      <img src="https://img.shields.io/badge/JavaScript-10.5%25-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
     </td>
   </tr>
 </table>
@@ -144,9 +152,9 @@ Here are a few projects that best represent my approach to frontend development:
 
 ---
 
-## 🤝 Let's Connect
+## &#129309; Let's Connect
 
-If you're looking for someone who cares about product quality, frontend performance, and polished UX, feel free to reach out.
+If you're looking for someone who cares about product quality, frontend performance, clean UI architecture, and polished UX, feel free to reach out.
 
 <div align="center">
 
@@ -158,4 +166,4 @@ If you're looking for someone who cares about product quality, frontend performa
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave" />
