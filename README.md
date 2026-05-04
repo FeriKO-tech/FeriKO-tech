@@ -196,6 +196,14 @@ Status     Open to new opportunities
 
 <img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/FeriKO-tech/FeriKO-tech/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+
 </div>
 
 ---
