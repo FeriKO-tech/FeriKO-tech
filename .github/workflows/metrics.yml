@@ -15,13 +15,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, community
+          base_indepth: yes
           config_timezone: Europe/Kyiv
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_isocalendar: yes
           plugin_followup: yes
-          plugin_topics: yes
+          plugin_followup_sections: repositories
           plugin_lines: yes
+          plugin_lines_sections: base
