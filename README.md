@@ -78,8 +78,8 @@ Status     Open to new opportunities
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats" height="180" alt="FeriKO GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;custom_title=Most%20Used%20Languages" height="180" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeriKO-tech&amp;theme=tokyonight" height="180" alt="FeriKO GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeriKO-tech&amp;theme=tokyonight" height="180" alt="Most Used Languages" />
 
 <br/><br/>
 
