@@ -181,8 +181,8 @@ Status     Open to new opportunities
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=FeriKO%27s%20GitHub%20Stats" height="180" alt="FeriKO GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;custom_title=Top%20Languages" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;cache_seconds=21600&amp;v=2&amp;custom_title=FeriKO%27s%20GitHub%20Stats" height="180" alt="FeriKO GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriKO-tech&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=12&amp;card_width=360&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=21600&amp;v=2&amp;custom_title=Top%20Languages" height="180" alt="Top Languages" />
 
 <br/><br/>
 
